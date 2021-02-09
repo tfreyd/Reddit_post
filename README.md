@@ -14,7 +14,16 @@ Reddit users published their **Ask HN_** posts mostly during the afternoon with 
 ![ask HN posts per hour](1.ask_posts_hour.png)
 ![show posts per hour](5.show_posts_hours.png)
 
+
+#### hourly ratio comments/posts
 The **Ask HN** posts created between 15-16 are the ones receive the hightest average number of comments per hours. This tendency is not found for the **Show HN** posts. 
 
 
 ![ratio_comments_posts_ask](3.ratio_comments_posts_ask.png)
+![ratio_comments_posts_show](7.ratio_comments_show_posts_hours.png)
+
+
+#### hourly points
+In average, a  **Ask HN** post 11.26 points and a ***Show HN** post gets 14.78 points
+
+A similar trend 
