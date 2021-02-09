@@ -7,9 +7,12 @@ The analysis focused on the Hackers News (HN) post: **Ask HN** and **Post HN** w
 
 ![Fig kind of posts](0_kind_of_posts.jpg)
 
-## When do the people publish posts
+## Time of publication
 #### frequency of publication
 
-Reddit users published their Ask HN posts mostly during the afternoon with a pic betwwen 15-16 (EST time) and it is a similar trend for the . Surprisely, the post created 15-16 receive the hightest number of comments
+Reddit users published their **Ask HN_** posts mostly during the afternoon with a pic betwwen 15-16 (EST time) and it is a similar trend for the **Show HN** posts.
+![show posts per hour](5.show_posts_hours.png)![ask HN posts per hour](1.ask_posts_hour.png)
 
-![ask HN posts per hour](1.ask_posts_hour.png)![ratiocomments/ask HN posts per hour](2.comments_ask_posts_hours.png)
+The Ask HN posts created between 15-16 are the ones receive the hightest average number of comments per hours. This tendency 
+
+
