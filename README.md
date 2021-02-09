@@ -17,4 +17,4 @@ Reddit users published their **Ask HN_** posts mostly during the afternoon with 
 The **Ask HN** posts created between 15-16 are the ones receive the hightest average number of comments per hours. This tendency is not found for the **Show HN** posts. 
 
 
-![ratio_comments_posts_ask](3.ratio_comments_posts_ask.pdf)
+![ratio_comments_posts_ask](3.ratio_comments_posts_ask.png)
