@@ -27,3 +27,6 @@ The **Ask HN** posts created between 15-16 are the ones receive the hightest ave
 In average, a  **Ask HN** post 11.26 points and a ***Show HN** post gets 14.78 points
 
 A similar trend 
+
+![ratio_points_ask_comments.png](ratio_points_ask_comments.png)
+![ratio_points_show_comments.png](ratio_points_show_comments.png)
