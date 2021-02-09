@@ -36,4 +36,4 @@ The trend is similar to what is observed with the number of comments/posts, high
 The time dimension is more important for **Ask HN** posts if one wants to optimize the number of comments and points.
 Also, 1500 EST corresponds to the evenings hours (8PM UTC), hence the step increase could be due to Europe population but we do not have that information for confirmation. 
 
-![time zone europe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fec.europa.eu%2Ftransport%2Fthemes%2Fsummertime_en&psig=AOvVaw25WyX1VdaMIn-PH6CRZgi2&ust=1612950204975000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjExf7B3O4CFQAAAAAdAAAAABAD)
+![time zone europe](https://ec.europa.eu/transport/sites/transport/files/st/st_2.png)
